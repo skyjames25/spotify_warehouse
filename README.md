@@ -276,7 +276,7 @@ psql -d spotify_db -f sql/schema.sql
 ```
 
 6. **Execute ETL Pipeline**  
-### On the jupyter webpage, select the 'Restart and run all cells' option, Ctrl+C(in terminal) to close the notebook after running finish.
+##### On the jupyter webpage, select the 'Restart and run all cells' option, Ctrl+C(in terminal) to close the notebook after running finish.
 ```bash
 jupyter notebook script.ipynb
 ``` 
